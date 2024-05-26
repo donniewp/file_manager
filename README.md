@@ -16,14 +16,14 @@
 ## Команды
 
 * exit - выйти из программы
-  cd <directory> - сменить директорию
-  mkdir <directory> - создать директорию
-  rmdir <directory> - удалить директорию
-  ls - список файлов и директорий в текущей директории
-  touch <filename> - создать пустой файл
-  rm <filename> - удалить файл
-  cat <filename> - прочитать содержимое файла
-  write <filename> <content> - записать содержимое в файл
-  cp <filename> <destination_directory> - скопировать файл
-  mv <filename> <destination_directory> - переместить файл
-  rename <old_filename> <new_filename> - переименовать файл
+* cd <directory> - сменить директорию
+* mkdir <directory> - создать директорию
+* rmdir <directory> - удалить директорию
+* ls - список файлов и директорий в текущей директории
+* touch <filename> - создать пустой файл
+* rm <filename> - удалить файл
+* cat <filename> - прочитать содержимое файла
+* write <filename> <content> - записать содержимое в файл
+* cp <filename> <destination_directory> - скопировать файл
+* mv <filename> <destination_directory> - переместить файл
+* rename <old_filename> <new_filename> - переименовать файл
