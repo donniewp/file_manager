@@ -1,0 +1,1 @@
+WORKING_DIRECTORY = 'C:/Users/alexo/Dropbox/инс'
