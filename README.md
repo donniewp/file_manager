@@ -10,8 +10,8 @@
 
 ## Установка
 
-   git clone https://github.com/yourusername/file_manager.git
-   cd file_manager
+* git clone https://github.com/donniewp/file_manager.git
+* cd file_manager
    
 ## Команды
 
