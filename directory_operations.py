@@ -11,7 +11,4 @@ def list_directory(path):
 
 def change_directory(current_path, target_directory, base_directory):
     new_path = os.path.realpath(os.path.join(current_path, target_directory))
-    if os.path.commonpath([new_path, base_directory]) == base_directory:
-        return new_path
-    else:
-        raise PermissionError("Cannot navigate outside of the base directory")
+    return new_path
